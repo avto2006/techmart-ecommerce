@@ -1,5 +1,23 @@
 {
-  "devDependencies": {
-    "@types/react": "^19.3.0"
+  "name": "techmart-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/avto2006/react-typescript-labs#readme",
+  "bugs": {
+    "url": "https://github.com/avto2006/react-typescript-labs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avto2006/react-typescript-labs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
   }
 }
