@@ -12,7 +12,7 @@ export const products: Product[] = [
     imageUrl: "https://via.placeholder.com/300"
    },
     {
-    id: "1",
+    id: "2",
     title: "MacBook Pro 16",
     price: 2499,
     category: "laptops",
