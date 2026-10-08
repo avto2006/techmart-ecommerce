@@ -6,7 +6,7 @@ export const ProductCard = ({ product, onAddToCart }: ProductCardProps) => {
       <h3>{product.title}</h3>
       <p>ფასი: ${product.price}</p>
       <p>კატეგორია: {product.category}</p>
-      <button onClick={() => onAddToCart && onAddToCart(product)}>
+      <button  onClick={() => onAddToCart && onAddToCart(product)}>
         კალათაში დამატება
       </button>
     </div>
