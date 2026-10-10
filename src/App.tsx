@@ -3,6 +3,7 @@ import { products } from './data/product';
 import '../techmart-ecommerce/src/App'
 
 // აპლიკაცია
+// ბევრი რედაქტირებებია შესატანი
 
 function App() {
   return (
