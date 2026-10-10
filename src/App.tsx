@@ -2,6 +2,8 @@ import { ProductCard } from './components/ProductCard';
 import { products } from './data/product';
 import '../techmart-ecommerce/src/App'
 
+// აპლიკაცია
+
 function App() {
   return (
     <div style={{ padding: '24px', fontFamily: 'sans-serif' }}>
